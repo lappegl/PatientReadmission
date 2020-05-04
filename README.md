@@ -132,7 +132,7 @@ Logistic regression is still very popular in a variety of binary classification 
 
 Results:
 
-![img](blob:https://imgur.com/1a40ee19-25e7-478d-ade5-f3e2ec6548d4)
+![img](https://i.imgur.com/JL3zJ2u.png)
 
 Pretty good accuracy, but here it falls into the same problem as LightGBM--higher precision but almost worthless as a result of extremely low recall.
 
